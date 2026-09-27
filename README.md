@@ -1,6 +1,6 @@
 # Bitacora-electronica-complementario-2026
 Bitacora de mi curso de Artes Visuales de UChile
-#Información 
+#Información  
 Roxanna Elena Martínez Tudela
 -Manifiesto: soy una artista rudimentaria literalmente, eso es por ahora
 -Cita: por ahora me motiva -mi arte es mio. Es una adaptación del manifiesto del escritor Rubén Darío de su Prosas profanas y otros poemas de 1896
